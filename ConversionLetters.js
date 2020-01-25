@@ -21,5 +21,6 @@ else
 }
 
 console.log(OnLowerToUpperReverse('Hello World'));
+console.log(OnLowerToUpperReverse('hello World'));
 
    
